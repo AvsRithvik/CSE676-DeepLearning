@@ -8,13 +8,14 @@ Please run the notebook in Google Colab and follow the below folder structure in
 
 ```
 .
-└── DeepLearning            
-   └── fgvc-aircraft-2013b          
-       └── data
-           |── train.csv
-           |── val.csv
-           |── test.csv            
-           └── images
-               └── ....
+└── DeepLearning
+    |── final.h5
+    └── fgvc-aircraft-2013b
+        └── data
+            |── train.csv
+            |── val.csv
+            |── test.csv            
+            └── images
+                └── ....
 ```
 
