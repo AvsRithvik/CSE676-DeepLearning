@@ -1,6 +1,6 @@
 # CSE676-DeepLearning
 
-Dataset
+Dataset and Best-Weights (final.h5)
 
 https://buffalo.box.com/s/wbr8f4hzbwqaxjr86jhoapew1uobird7
 
