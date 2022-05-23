@@ -1,7 +1,9 @@
 # CSE676-DeepLearning
 
+
+Please follow the below folder structure in Google Drive
+```
 .
-├── src.ipynb
 └── DeepLearning            
    └── fgvc-aircraft-2013b          
        └── data
@@ -10,4 +12,5 @@
            |── test.csv            
            └── images
                └── ....
+```
 
